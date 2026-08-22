@@ -73,7 +73,7 @@ The JEOGA manuscript is not stored in this repository. WorldCover archive raster
 
 ## Contact
 
-Jonathan D. Bright  
+Jonathan D. Bright (`JBSpiritous`) 
 JBSpiritous@gmail.com
 
 ---
