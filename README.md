@@ -1,5 +1,5 @@
 # My-GIS-Projects
-Undergraduate GIS work by **Jonathan D. Bright**  
+Undergraduate GIS work by **Jonathan D. Bright (`JBSpiritous`)**  
 Oregon State University · B.S. Geographic Information Systems (in progress)  
 Burnet, TX
 
