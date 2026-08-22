@@ -75,3 +75,14 @@ The JEOGA manuscript is not stored in this repository. WorldCover archive raster
 
 Jonathan D. Bright  
 JBSpiritous@gmail.com
+
+---
+
+## License
+
+This repository is licensed under the MIT License. See `LICENSE`.
+
+That covers files I created and posted here. It does not cover:
+- the ArcGIS StoryMap (hosted on ArcGIS)
+- USDA LCMS, ESA WorldCover, or other third-party datasets
+- the JEOGA manuscript
