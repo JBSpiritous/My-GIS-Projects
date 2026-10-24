@@ -8,7 +8,7 @@ I work on land-cover change, visual image interpretation, and public-facing map 
 ---
 
 ## About
-I am a GIS student at Oregon State University. Through the URSA program, I completed an independent remote-sensing study of rapid urbanization along State Highway 29 between Liberty Hill and Georgetown, Texas. I submitted that manuscript to the *Journal of Earth Observation and Geospatial Applications* (JEOGA) in August 2026.
+I am a GIS & Data Science student at Oregon State University. Through the URSA program, I completed an independent remote-sensing study of rapid urbanization along State Highway 29 between Liberty Hill and Georgetown, Texas. I submitted that manuscript to the *Journal of Earth Observation and Geospatial Applications* (JEOGA) in August 2026.
 
 I also build course StoryMaps that turn published research and public spatial data into a readable map-based narrative.
 
