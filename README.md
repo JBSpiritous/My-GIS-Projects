@@ -21,7 +21,7 @@ I also build course StoryMaps that turn published research and public spatial da
 **Type:** Undergraduate research (OSU URSA)  
 **Role:** First author  
 **Dates:** January 2026 – present  
-**Status:** Manuscript submitted to JEOGA, August 2026 · research showcase / symposium presentation  
+**Status:** Manuscript submitted to JEOGA, August 2026 · research showcase / symposium presentation, January 2027  
 **Co-author:** Peder Nelson
 **Live map:** https://arcg.is/uSPeG2
 
