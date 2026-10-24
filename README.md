@@ -4,7 +4,7 @@ Oregon State University · B.S. Geographic Information Systems (in progress)
 Burnet, TX
 
 I work on land-cover change, visual image interpretation, and public-facing map narratives. Most of my current work uses Collect Earth Online, USDA LCMS, and ArcGIS StoryMaps.
-**Links:** [ORCID](https://orcid.org/0009-0001-6780-149X) · [Linktree](https://linktr.ee/JBSpirit) · JBSpiritous@gmail.com
+**Links:** [ORCID](https://orcid.org/0009-0001-6780-149X) · [Linktree](https://linktr.ee/JBSpirit) · JBSpiritous@proton.me
 ---
 
 ## About
