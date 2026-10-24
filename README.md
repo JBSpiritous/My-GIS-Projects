@@ -23,6 +23,7 @@ I also build course StoryMaps that turn published research and public spatial da
 **Dates:** January 2026 – present  
 **Status:** Manuscript submitted to JEOGA, August 2026 · research showcase / symposium presentation  
 **Co-author:** Peder Nelson
+**Live map:** https://arcg.is/uSPeG2
 
 Rapid development along SH 29 has converted farmland and woodland into subdivisions and commercial centers. This project documents that change from 2016 to 2026 with two complementary methods.
 
